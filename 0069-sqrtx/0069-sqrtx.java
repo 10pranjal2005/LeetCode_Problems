@@ -4,8 +4,8 @@ class Solution {
             return 0;
         }
         long r = x;
-        while (r > x / r) {
-            r = (r + x / r) / 2;
+        while (r > x / r) { 
+            r = (r + x / r) / 2; //Newton's fromuale to calculate SQRT
         }
         return (int) r;
     }
