@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
