@@ -9,11 +9,13 @@
 | [0027-remove-element](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 ## Linked List
 |  |
 | ------- |
