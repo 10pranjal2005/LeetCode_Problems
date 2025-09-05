@@ -15,20 +15,14 @@ class Solution {
                 int num = currentVal - '1';
                 int mask = 1 << num;
 
-                if ((rows[i] & mask) != 0) {
-                    return false;
-                }
-                rows[i] |= mask;
-
-                if ((cols[j] & mask) != 0) {
-                    return false;
-                }
-                cols[j] |= mask;
-
                 int boxIndex = (i / 3) * 3 + (j / 3);
-                if ((boxes[boxIndex] & mask) != 0) {
+
+                if ((rows[i] & mask) != 0 || (cols[j] & mask) != 0 || (boxes[boxIndex] & mask) != 0) {
                     return false;
                 }
+                
+                rows[i] |= mask;
+                cols[j] |= mask;
                 boxes[boxIndex] |= mask;
             }
         }
