@@ -27,11 +27,13 @@
 | [0002-add-two-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0050-powx-n) |
 ## Two Pointers
 |  |
 | ------- |
