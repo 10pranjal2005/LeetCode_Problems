@@ -31,6 +31,7 @@
 | [0009-palindrome-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0069-sqrtx) |
+| [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
