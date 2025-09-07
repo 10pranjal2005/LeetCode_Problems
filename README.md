@@ -22,6 +22,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
