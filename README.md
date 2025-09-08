@@ -31,6 +31,7 @@
 | [0009-palindrome-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
 ## Recursion
@@ -90,4 +91,12 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
