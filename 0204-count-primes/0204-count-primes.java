@@ -1,28 +1,22 @@
-import java.util.Arrays;
-
 class Solution {
     public int countPrimes(int n) {
-        if (n <= 2) {
+        if (n < 3) {
             return 0;
         }
 
-        boolean[] isPrime = new boolean[n];
-        Arrays.fill(isPrime, true);
+        boolean[] isNotPrime = new boolean[n];
 
-        isPrime[0] = false;
-        isPrime[1] = false;
-
-        for (int p = 2; p * p < n; p++) {
-            if (isPrime[p]) {
-                for (int i = p * p; i < n; i += p) {
-                    isPrime[i] = false;
+        for (int p = 3; p * p < n; p += 2) {
+            if (!isNotPrime[p]) {
+                for (int i = p * p; i < n; i += (2 * p)) {
+                    isNotPrime[i] = true;
                 }
             }
         }
 
-        int count = 0;
-        for (int i = 2; i < n; i++) {
-            if (isPrime[i]) {
+        int count = 1;
+        for (int i = 3; i < n; i += 2) {
+            if (!isNotPrime[i]) {
                 count++;
             }
         }
