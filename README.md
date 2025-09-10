@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0069-sqrtx](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
 ## Recursion
@@ -96,6 +98,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
 ## Brainteaser
 |  |
@@ -109,4 +112,8 @@
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
