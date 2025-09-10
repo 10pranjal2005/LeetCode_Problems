@@ -12,6 +12,7 @@
 | [0041-first-missing-positive](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0050-powx-n](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
+| [0189-rotate-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
 ## Recursion
@@ -52,6 +54,7 @@
 | [0027-remove-element](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
