@@ -12,6 +12,7 @@
 | [0041-first-missing-positive](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
 ## Hash Table
@@ -67,6 +68,7 @@
 | [0020-valid-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
 ## Dynamic Programming
 |  |
@@ -79,6 +81,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
 ## Stack
 |  |
 | ------- |
@@ -126,4 +129,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
