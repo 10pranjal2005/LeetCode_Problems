@@ -1,25 +1,14 @@
 class Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
-        if (n == 0 || k % n == 0) {
-            return;
-        }
-        
-        k = k % n;
-        int count = 0; // Number of elements placed in their correct positions
+        if (n <= 1) return;
 
-        for (int start = 0; count < n; start++) {
-            int currentIdx = start;
-            int prevValue = nums[start];
+        k %= n;
+        if (k == 0) return;
 
-            do {
-                int nextIdx = (currentIdx + k) % n;
-                int temp = nums[nextIdx];
-                nums[nextIdx] = prevValue;
-                prevValue = temp;
-                currentIdx = nextIdx;
-                count++;
-            } while (start != currentIdx);
-        }
+        int[] tmp = new int[k];
+        System.arraycopy(nums, n - k, tmp, 0, k);
+        System.arraycopy(nums, 0, nums, k, n - k);
+        System.arraycopy(tmp, 0, nums, 0, k);
     }
 }
