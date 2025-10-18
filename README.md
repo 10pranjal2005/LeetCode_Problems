@@ -32,6 +32,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0050-powx-n](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@
 | [0125-valid-palindrome](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 ## String
@@ -96,6 +99,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
