@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+
 class Solution {
     public boolean isPalindrome(ListNode head) {
         List<Integer> values = new ArrayList<>();
@@ -8,6 +9,7 @@ class Solution {
             values.add(currentNode.val);
             currentNode = currentNode.next;
         }
+        
         int left = 0;
         int right = values.size() - 1;
         while (left < right) {
@@ -17,6 +19,7 @@ class Solution {
             left++;
             right--;
         }
+        
         return true;
     }
 }
