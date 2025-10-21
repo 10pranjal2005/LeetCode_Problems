@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
@@ -158,4 +159,12 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0176-second-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0196-delete-duplicate-emails) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
