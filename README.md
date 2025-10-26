@@ -171,13 +171,19 @@
 | [0155-min-stack](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
