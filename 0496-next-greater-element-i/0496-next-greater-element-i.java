@@ -1,27 +1,23 @@
-import java.util.Map;
-import java.util.HashMap;
-import java.util.Deque;
-import java.util.ArrayDeque;
-
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        
-        Map<Integer, Integer> nextGreaterMap = new HashMap<>();
+        int[] next = new int[10001]; // Since nums[i] ≤ 10^4
+        boolean[] seen = new boolean[10001];
         Deque<Integer> stack = new ArrayDeque<>();
-        
+
         for (int num : nums2) {
             while (!stack.isEmpty() && num > stack.peek()) {
-                nextGreaterMap.put(stack.pop(), num);
+                next[stack.pop()] = num;
             }
             stack.push(num);
+            seen[num] = true;
         }
-        
+
         int[] ans = new int[nums1.length];
-        
         for (int i = 0; i < nums1.length; i++) {
-            ans[i] = nextGreaterMap.getOrDefault(nums1[i], -1);
+            int n = nums1[i];
+            ans[i] = seen[n] ? (next[n] == 0 ? -1 : next[n]) : -1;
         }
-        
+
         return ans;
     }
 }
