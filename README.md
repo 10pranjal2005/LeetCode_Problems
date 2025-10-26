@@ -17,6 +17,7 @@
 | [0189-rotate-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0036-valid-sudoku](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0155-min-stack](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -169,4 +172,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
