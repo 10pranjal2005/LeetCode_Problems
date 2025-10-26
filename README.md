@@ -27,6 +27,7 @@
 | [0036-valid-sudoku](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
+| [0387-first-unique-character-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -92,6 +93,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Stack
@@ -186,4 +189,8 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0969-number-of-recent-calls) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
