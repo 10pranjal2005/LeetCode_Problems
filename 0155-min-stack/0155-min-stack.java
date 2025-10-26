@@ -1,13 +1,14 @@
-import java.util.Stack;
+import java.util.ArrayDeque;
+import java.util.Deque;
 
 class MinStack {
 
-    private Stack<Integer> stack;
-    private Stack<Integer> minStack;
+    private Deque<Integer> stack;
+    private Deque<Integer> minStack;
 
     public MinStack() {
-        stack = new Stack<>();
-        minStack = new Stack<>();
+        stack = new ArrayDeque<>();
+        minStack = new ArrayDeque<>();
     }
     
     public void push(int val) {
@@ -19,9 +20,7 @@ class MinStack {
     }
     
     public void pop() {
-        int val = stack.pop();
-        
-        if (val == minStack.peek()) {
+        if (stack.pop().equals(minStack.peek())) {
             minStack.pop();
         }
     }
