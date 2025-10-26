@@ -1,23 +1,22 @@
-import java.util.Queue;
-import java.util.ArrayDeque;
-
 class RecentCounter {
 
-    private Queue<Integer> requests;
+    private int[] times;
+    private int start;
+    private int end;
 
     public RecentCounter() {
-        requests = new ArrayDeque<>();
+        times = new int[10000]; // Based on constraints: up to 10^4 calls
+        start = 0;
+        end = 0;
     }
-    
+
     public int ping(int t) {
-        requests.offer(t);
-        
-        int minTime = t - 3000;
-        
-        while (!requests.isEmpty() && requests.peek() < minTime) {
-            requests.poll();
+        times[end++] = t;
+
+        while (times[start] < t - 3000) {
+            start++;
         }
-        
-        return requests.size();
+
+        return end - start;
     }
 }
