@@ -32,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 ## Linked List
 |  |
@@ -99,6 +100,7 @@
 | [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0782-jewels-and-stones](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0782-jewels-and-stones) |
 ## Dynamic Programming
 |  |
 | ------- |
