@@ -244,6 +244,7 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
 |  |
