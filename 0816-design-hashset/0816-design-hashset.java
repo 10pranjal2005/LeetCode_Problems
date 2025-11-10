@@ -1,34 +1,19 @@
 class MyHashSet {
-    private static final int SIZE = 1000;  // number of buckets
-    private List<Integer>[] buckets;       // array of lists for chaining
+    private boolean[] set;
 
     public MyHashSet() {
-        buckets = new List[SIZE];
-    }
-
-    private int hash(int key) {
-        return key % SIZE;
+        set = new boolean[1000001];  // keys range 0..1_000_000
     }
 
     public void add(int key) {
-        int index = hash(key);
-        if (buckets[index] == null) {
-            buckets[index] = new LinkedList<>();
-        }
-        if (!buckets[index].contains(key)) {
-            buckets[index].add(key);
-        }
+        set[key] = true;
     }
 
     public void remove(int key) {
-        int index = hash(key);
-        if (buckets[index] != null) {
-            buckets[index].remove(Integer.valueOf(key));
-        }
+        set[key] = false;
     }
 
     public boolean contains(int key) {
-        int index = hash(key);
-        return buckets[index] != null && buckets[index].contains(key);
+        return set[key];
     }
 }
