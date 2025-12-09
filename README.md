@@ -61,6 +61,7 @@
 | [0013-roman-to-integer](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
@@ -112,6 +113,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
@@ -260,4 +262,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
