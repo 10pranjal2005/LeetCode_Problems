@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
@@ -215,6 +216,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -223,6 +225,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
@@ -238,6 +241,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
