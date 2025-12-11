@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
@@ -32,6 +33,7 @@
 | [0013-roman-to-integer](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -225,6 +227,7 @@
 | [0101-symmetric-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -253,6 +256,7 @@
 | [0101-symmetric-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
@@ -273,6 +277,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Memoization
 |  |
