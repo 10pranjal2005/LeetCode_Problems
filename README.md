@@ -107,6 +107,7 @@
 | [0008-string-to-integer-atoi](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -163,6 +165,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
 ## Bit Manipulation
 |  |
