@@ -13,8 +13,6 @@ class Solution {
             }
             c = c.next;
         }
-
-        // Attach the remainder
         c.next = (l1 != null) ? l1 : l2;
 
         return d.next;
