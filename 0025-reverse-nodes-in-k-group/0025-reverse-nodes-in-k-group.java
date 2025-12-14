@@ -1,27 +1,21 @@
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if (head == null || k <= 1) return head;
-        ListNode d = new ListNode(0);
-        d.next = head;
-        ListNode p = d;
+        ListNode c = head;
 
-        while (p != null) {
-            ListNode e = p;
-            for (int i = 0; i < k && e != null; i++) {
-                e = e.next;
-            }
-            if (e == null) break;
-            ListNode a = p.next;
-            ListNode b = a.next;
-
-            for (int i = 1; i < k; i++) {
-                a.next = b.next;
-                b.next = p.next;
-                p.next = b;
-                b = a.next;
-            }
-            p = a;
+        for (int i = 0; i < k; i++) {
+            if (c == null) return head;
+            c = c.next;
         }
-        return d.next;
+
+        ListNode prev = null, cur = head;
+        for (int i = 0; i < k; i++) {
+            ListNode nxt = cur.next;
+            cur.next = prev;
+            prev = cur;
+            cur = nxt;
+        }
+
+        head.next = reverseKGroup(cur, k);
+        return prev;
     }
 }
