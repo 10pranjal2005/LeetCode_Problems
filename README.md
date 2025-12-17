@@ -73,6 +73,7 @@
 | [0029-divide-two-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0060-permutation-sequence) |
+| [0067-add-binary](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
@@ -123,6 +124,7 @@
 | [0020-valid-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
@@ -189,6 +191,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
 ## Number Theory
 |  |
@@ -309,4 +312,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
