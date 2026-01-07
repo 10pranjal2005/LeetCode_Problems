@@ -88,6 +88,7 @@
 | [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0258-add-digits) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
@@ -102,6 +103,7 @@
 | [0060-permutation-sequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -140,6 +142,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0782-jewels-and-stones) |
@@ -165,6 +168,7 @@
 | [0020-valid-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
