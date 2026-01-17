@@ -91,6 +91,7 @@
 | [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0258-add-digits) |
+| [0507-perfect-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0507-perfect-number) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
 ## Recursion
