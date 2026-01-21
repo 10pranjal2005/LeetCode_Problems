@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0816-design-hashset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0860-design-circular-queue) |
@@ -190,6 +191,7 @@
 | [0035-search-insert-position](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
