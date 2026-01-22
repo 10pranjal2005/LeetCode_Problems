@@ -93,6 +93,7 @@
 | [0224-basic-calculator](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0507-perfect-number) |
+| [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
 ## Recursion
@@ -159,6 +160,7 @@
 | [0070-climbing-stairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0198-house-robber) |
+| [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
 ## Greedy
 |  |
 | ------- |
@@ -371,4 +373,8 @@
 | ------- |
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1046-last-stone-weight) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
 <!---LeetCode Topics End-->
