@@ -255,6 +255,7 @@
 | [0176-second-highest-salary](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0182-duplicate-emails) |
+| [0185-department-top-three-salaries](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
