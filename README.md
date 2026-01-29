@@ -264,6 +264,7 @@
 | [0595-big-countries](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0626-exchange-seats](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0626-exchange-seats) |
+| [1068-product-sales-analysis-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1148-article-views-i) |
 | [1341-movie-rating](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
