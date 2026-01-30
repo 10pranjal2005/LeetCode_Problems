@@ -265,6 +265,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0596-classes-with-at-least-5-students) |
 | [0626-exchange-seats](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1280-students-and-examinations) |
