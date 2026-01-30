@@ -267,6 +267,7 @@
 | [1068-product-sales-analysis-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1068-product-sales-analysis-i) |
 | [1075-project-employees-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1341-movie-rating) |
