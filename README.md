@@ -35,6 +35,7 @@
 | [1046-last-stone-weight](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1046-last-stone-weight) |
 | [1590-make-sum-divisible-by-p](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Brainteaser
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Database
 |  |
 | ------- |
