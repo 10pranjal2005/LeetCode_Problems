@@ -267,6 +267,7 @@
 | [0584-find-customer-referee](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1070-product-sales-analysis-iii) |
