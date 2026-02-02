@@ -259,6 +259,7 @@
 | [0175-combine-two-tables](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0196-delete-duplicate-emails) |
