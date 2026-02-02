@@ -36,6 +36,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0997-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [1590-make-sum-divisible-by-p](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1590-make-sum-divisible-by-p) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -413,8 +415,13 @@
 | ------- |
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1046-last-stone-weight) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
 | [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
+## Sliding Window
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
