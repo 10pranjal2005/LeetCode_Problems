@@ -25,6 +25,7 @@
 | [0217-contains-duplicate](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0739-daily-temperatures) |
@@ -175,6 +176,7 @@
 | [0011-container-with-most-water](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
+| [0605-can-place-flowers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 ## Stack
 |  |
