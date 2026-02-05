@@ -23,6 +23,7 @@
 | [0198-house-robber](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0605-can-place-flowers) |
@@ -417,6 +418,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1590-make-sum-divisible-by-p](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1590-make-sum-divisible-by-p) |
 ## Heap (Priority Queue)
 |  |
