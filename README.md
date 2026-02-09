@@ -29,6 +29,7 @@
 | [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0816-design-hashset) |
@@ -438,6 +439,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [1590-make-sum-divisible-by-p](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1590-make-sum-divisible-by-p) |
 ## Heap (Priority Queue)
 |  |
