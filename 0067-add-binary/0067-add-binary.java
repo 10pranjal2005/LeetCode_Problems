@@ -1,5 +1,6 @@
 class Solution {
     public String addBinary(String a, String b) {
+        
         StringBuilder result = new StringBuilder();
         
         int i = a.length() - 1;
@@ -7,6 +8,7 @@ class Solution {
         int carry = 0;
         
         while (i >= 0 || j >= 0 || carry == 1) {
+            
             int sum = carry;
             
             if (i >= 0) {
