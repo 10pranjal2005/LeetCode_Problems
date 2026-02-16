@@ -264,6 +264,7 @@
 | [0029-divide-two-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
+| [0190-reverse-bits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0190-reverse-bits) |
 ## Number Theory
 |  |
 | ------- |
@@ -440,6 +441,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3721-longest-balanced-subarray-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Memoization
