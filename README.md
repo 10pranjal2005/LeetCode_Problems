@@ -179,6 +179,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0649-dota2-senate) |
 | [0709-to-lower-case](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0709-to-lower-case) |
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0782-jewels-and-stones) |
@@ -206,6 +207,7 @@
 | [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Stack
@@ -347,6 +349,7 @@
 | [0225-implement-stack-using-queues](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0649-dota2-senate) |
 | [0860-design-circular-queue](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0969-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
