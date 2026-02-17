@@ -260,6 +260,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
+| [0401-binary-watch](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -267,6 +268,7 @@
 | [0067-add-binary](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0401-binary-watch) |
 ## Number Theory
 |  |
 | ------- |
