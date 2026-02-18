@@ -96,6 +96,7 @@
 | [0816-design-hashset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0443-string-compression](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -226,6 +228,7 @@
 | [0739-daily-temperatures](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
