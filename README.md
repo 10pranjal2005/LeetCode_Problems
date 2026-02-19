@@ -390,6 +390,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -401,6 +402,7 @@
 | [0437-path-sum-iii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0437-path-sum-iii) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -412,6 +414,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -429,6 +432,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
