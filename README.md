@@ -203,6 +203,7 @@
 | [0509-fibonacci-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0799-champagne-tower) |
 | [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -392,6 +393,7 @@
 | [0437-path-sum-iii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -405,6 +407,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0437-path-sum-iii) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -436,6 +439,7 @@
 | [0437-path-sum-iii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
