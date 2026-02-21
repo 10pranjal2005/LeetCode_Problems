@@ -118,6 +118,7 @@
 | [0258-add-digits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
@@ -276,6 +277,7 @@
 | [0190-reverse-bits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Number Theory
 |  |
 | ------- |
