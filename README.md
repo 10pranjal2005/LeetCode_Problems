@@ -395,6 +395,7 @@
 | [0437-path-sum-iii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -412,6 +413,7 @@
 | [0547-number-of-provinces](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0841-keys-and-rooms) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -450,6 +452,7 @@
 | [0437-path-sum-iii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0437-path-sum-iii) |
 | [0700-search-in-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0700-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
