@@ -35,6 +35,7 @@
 | [0739-daily-temperatures](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0860-design-circular-queue) |
+| [0994-rotting-oranges](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1046-last-stone-weight) |
@@ -250,6 +251,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [2352-equal-row-and-column-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Enumeration
 |  |
@@ -432,6 +434,7 @@
 | [0547-number-of-provinces](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
