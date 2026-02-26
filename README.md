@@ -47,6 +47,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3379-transformed-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3379-transformed-array) |
@@ -164,6 +165,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -512,6 +514,7 @@
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2352-equal-row-and-column-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3379-transformed-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3379-transformed-array) |
 ## Prefix Sum
 |  |
@@ -526,6 +529,7 @@
 | ------- |
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1046-last-stone-weight) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Probability and Statistics
 |  |
