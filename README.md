@@ -125,6 +125,7 @@
 | [0509-fibonacci-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
 ## Recursion
@@ -290,6 +291,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -515,6 +517,7 @@
 | [0258-add-digits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2352-equal-row-and-column-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2462-total-cost-to-hire-k-workers) |
