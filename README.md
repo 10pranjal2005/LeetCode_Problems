@@ -41,6 +41,7 @@
 | [1046-last-stone-weight](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -225,6 +226,7 @@
 | [0649-dota2-senate](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2542-maximum-subsequence-score](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2542-maximum-subsequence-score) |
 ## Stack
@@ -262,6 +264,7 @@
 | [0036-valid-sudoku](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0994-rotting-oranges) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 ## Enumeration
