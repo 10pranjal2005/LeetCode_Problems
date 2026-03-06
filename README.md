@@ -203,6 +203,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
 |  |
