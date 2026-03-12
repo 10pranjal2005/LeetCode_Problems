@@ -235,6 +235,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2542-maximum-subsequence-score](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2542-maximum-subsequence-score) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Stack
 |  |
 | ------- |
@@ -264,6 +265,7 @@
 | [0069-sqrtx](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0704-binary-search) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
 | ------- |
@@ -566,10 +568,16 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0547-number-of-provinces) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
