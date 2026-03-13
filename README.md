@@ -47,6 +47,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1980-find-unique-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -80,6 +81,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1657-determine-if-two-strings-are-close](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1980-find-unique-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1980-find-unique-binary-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -208,6 +210,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1980-find-unique-binary-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
 |  |
@@ -299,6 +302,7 @@
 | [0022-generate-parentheses](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
