@@ -207,6 +207,7 @@
 | [1657-determine-if-two-strings-are-close](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3714-longest-balanced-substring-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
 |  |
@@ -225,6 +226,7 @@
 | [0799-champagne-tower](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0799-champagne-tower) |
 | [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Greedy
 |  |
 | ------- |
@@ -567,6 +569,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Segment Tree
 |  |
