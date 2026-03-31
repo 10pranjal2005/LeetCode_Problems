@@ -222,6 +222,7 @@
 | [1980-find-unique-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Dynamic Programming
 |  |
@@ -259,6 +260,7 @@
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2542-maximum-subsequence-score](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2542-maximum-subsequence-score) |
 | [2573-find-the-string-with-lcp](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Stack
 |  |
@@ -281,6 +283,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Binary Search
 |  |
 | ------- |
