@@ -62,6 +62,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3379-transformed-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3379-transformed-array) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -245,6 +246,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Greedy
 |  |
 | ------- |
@@ -310,6 +312,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
 |  |
