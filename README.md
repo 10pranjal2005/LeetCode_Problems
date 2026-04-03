@@ -64,6 +64,7 @@
 | [3379-transformed-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
 |  |
@@ -247,6 +248,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | [0162-find-peak-element](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0704-binary-search) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
 |  |
 | ------- |
@@ -378,6 +381,7 @@
 | [2542-maximum-subsequence-score](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2542-maximum-subsequence-score) |
 | [2751-robot-collisions](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2751-robot-collisions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Database
 |  |
 | ------- |
