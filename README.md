@@ -36,6 +36,7 @@
 | [0739-daily-temperatures](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0860-design-circular-queue) |
+| [0874-walking-robot-simulation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
@@ -85,6 +86,7 @@
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0816-design-hashset) |
+| [0874-walking-robot-simulation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0874-walking-robot-simulation) |
 | [0997-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -580,6 +582,7 @@
 | [0067-add-binary](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
