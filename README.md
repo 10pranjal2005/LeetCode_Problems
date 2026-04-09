@@ -66,6 +66,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3721-longest-balanced-subarray-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -573,6 +574,7 @@
 | [0761-special-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Memoization
 |  |
