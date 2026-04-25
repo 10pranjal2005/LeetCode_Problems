@@ -65,6 +65,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3379-transformed-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3546-equal-sum-grid-partition-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -154,6 +155,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Recursion
 |  |
@@ -308,6 +310,7 @@
 | [0069-sqrtx](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0704-binary-search) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Matrix
@@ -391,6 +394,7 @@
 | [2542-maximum-subsequence-score](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2542-maximum-subsequence-score) |
 | [2751-robot-collisions](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2751-robot-collisions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Database
 |  |
@@ -660,4 +664,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0208-implement-trie-prefix-tree) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
