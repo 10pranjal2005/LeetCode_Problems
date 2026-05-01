@@ -26,6 +26,7 @@
 | [0238-product-of-array-except-self](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0396-rotate-function](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0605-can-place-flowers) |
@@ -149,6 +150,7 @@
 | [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0258-add-digits) |
+| [0396-rotate-function](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -254,6 +256,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0790-domino-and-tromino-tiling](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0790-domino-and-tromino-tiling) |
