@@ -233,6 +233,7 @@
 | [0761-special-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -309,6 +310,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Binary Search
 |  |
