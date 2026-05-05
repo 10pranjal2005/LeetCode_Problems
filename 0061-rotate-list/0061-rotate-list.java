@@ -1,30 +1,28 @@
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if (head == null || head.next == null || k == 0) return head;
-
-        // Find length and tail
-        ListNode tail = head;
-        int n = 1;
-        while (tail.next != null) {
-            tail = tail.next;
-            n++;
+        if (head == null || head.next == null || k == 0) {
+            return head;
         }
 
-        // Adjust k
-        k %= n;
-        if (k == 0) return head;
+        ListNode temp = head;
+        int length = 1;
 
-        // Make it circular
-        tail.next = head;
+        while (temp.next != null) {
+            temp = temp.next;
+            length++;
+        }
 
-        // Move to new tail: (n - k) steps
-        int steps = n - k;
-        ListNode newTail = head;
-        for (int i = 1; i < steps; i++) {
+        temp.next = head;
+
+        k = k % length;
+        int steps = length - k;
+
+        ListNode newTail = temp;
+
+        while (steps-- > 0) {
             newTail = newTail.next;
         }
 
-        // New head is next of newTail
         ListNode newHead = newTail.next;
         newTail.next = null;
 
