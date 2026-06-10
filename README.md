@@ -82,6 +82,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -309,6 +310,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Stack
 |  |
 | ------- |
@@ -677,6 +679,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2542-maximum-subsequence-score) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -691,6 +694,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1622-fancy-sequence) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3721-longest-balanced-subarray-ii) |
 ## Union-Find
 |  |
