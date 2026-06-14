@@ -88,6 +88,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -269,6 +270,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3714-longest-balanced-substring-ii) |
+| [3838-weighted-word-mapping](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -666,6 +668,7 @@
 | [2751-robot-collisions](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2751-robot-collisions) |
 | [3379-transformed-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3379-transformed-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
