@@ -147,6 +147,7 @@
 | [0816-design-hashset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
@@ -223,6 +224,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1861-rotating-the-box](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1861-rotating-the-box) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2481-strictly-palindromic-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2481-strictly-palindromic-number) |
