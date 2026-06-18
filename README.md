@@ -173,6 +173,7 @@
 | [0509-fibonacci-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
