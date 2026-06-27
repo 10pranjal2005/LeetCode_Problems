@@ -74,6 +74,7 @@
 | [2906-construct-product-matrix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2906-construct-product-matrix) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3379-transformed-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3379-transformed-array) |
@@ -125,6 +126,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2784-check-if-array-is-good) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3714-longest-balanced-substring-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3714-longest-balanced-substring-ii) |
@@ -390,6 +392,7 @@
 | [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3546-equal-sum-grid-partition-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Brainteaser
 |  |
