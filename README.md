@@ -117,6 +117,7 @@
 | [0997-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1657-determine-if-two-strings-are-close](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -268,6 +269,7 @@
 | [0782-jewels-and-stones](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1657-determine-if-two-strings-are-close](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1657-determine-if-two-strings-are-close) |
@@ -717,6 +719,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
