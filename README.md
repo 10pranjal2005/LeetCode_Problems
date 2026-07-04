@@ -592,6 +592,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
@@ -613,6 +614,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -739,6 +741,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
@@ -747,6 +750,7 @@
 | [0547-number-of-provinces](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
