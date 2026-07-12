@@ -44,6 +44,7 @@
 | [1039-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -118,6 +119,7 @@
 | [0997-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [1207-unique-number-of-occurrences](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1590-make-sum-divisible-by-p](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1657-determine-if-two-strings-are-close](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1657-determine-if-two-strings-are-close) |
@@ -456,6 +458,7 @@
 | [0435-non-overlapping-intervals](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0761-special-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
+| [1331-rank-transform-of-an-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1657-determine-if-two-strings-are-close) |
