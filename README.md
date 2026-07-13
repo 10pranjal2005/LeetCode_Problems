@@ -401,6 +401,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1291-sequential-digits) |
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
