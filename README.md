@@ -44,6 +44,7 @@
 | [1039-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -393,6 +394,7 @@
 | [0036-valid-sudoku](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0036-valid-sudoku) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -706,6 +708,7 @@
 | [0258-add-digits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
