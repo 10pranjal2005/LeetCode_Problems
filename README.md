@@ -31,6 +31,7 @@
 | [0435-non-overlapping-intervals](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0733-flood-fill) |
@@ -186,6 +187,7 @@
 | [0396-rotate-function](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -475,6 +477,7 @@
 | [0179-largest-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
