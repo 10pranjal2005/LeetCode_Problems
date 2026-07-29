@@ -139,6 +139,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3714-longest-balanced-substring-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3721-longest-balanced-subarray-ii) |
@@ -202,6 +203,7 @@
 | [2998-count-symmetric-integers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2998-count-symmetric-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -301,6 +303,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
@@ -580,6 +583,7 @@
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1657-determine-if-two-strings-are-close](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1657-determine-if-two-strings-are-close) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Tree
 |  |
@@ -823,4 +827,8 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
