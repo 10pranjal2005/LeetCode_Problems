@@ -29,6 +29,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0396-rotate-function](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -187,6 +188,7 @@
 | [0224-basic-calculator](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -225,6 +227,7 @@
 | [0206-reverse-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Two Pointers
@@ -322,6 +325,7 @@
 | [0392-is-subsequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0396-rotate-function) |
 | [0435-non-overlapping-intervals](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0509-fibonacci-number) |
 | [0790-domino-and-tromino-tiling](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0799-champagne-tower) |
@@ -834,4 +838,8 @@
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
