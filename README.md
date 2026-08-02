@@ -41,6 +41,7 @@
 | [0816-design-hashset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [0874-walking-robot-simulation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0997-find-the-town-judge) |
 | [1039-find-the-town-judge](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1039-find-the-town-judge) |
@@ -194,6 +195,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
+| [0877-stone-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -330,6 +332,7 @@
 | [0790-domino-and-tromino-tiling](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0799-champagne-tower) |
 | [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
+| [0877-stone-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0877-stone-game) |
 | [1340-jump-game-v](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1340-jump-game-v) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -842,4 +845,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
