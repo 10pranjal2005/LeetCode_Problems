@@ -100,6 +100,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3721-longest-balanced-subarray-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -475,6 +476,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
 | ------- |
