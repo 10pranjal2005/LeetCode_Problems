@@ -73,6 +73,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -382,6 +383,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1927-sum-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2542-maximum-subsequence-score](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2542-maximum-subsequence-score) |
 | [2573-find-the-string-with-lcp](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
