@@ -311,6 +311,7 @@
 | [0767-reorganize-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0767-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0782-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -353,6 +354,7 @@
 | [0799-champagne-tower](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0799-champagne-tower) |
 | [0808-soup-servings](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0808-soup-servings) |
 | [0877-stone-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1340-jump-game-v) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
