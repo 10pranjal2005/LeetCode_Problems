@@ -85,6 +85,7 @@
 | [2751-robot-collisions](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2906-construct-product-matrix) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -148,6 +149,7 @@
 | [2540-minimum-common-value](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2784-check-if-array-is-good) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -827,6 +829,7 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1622-fancy-sequence) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -915,4 +918,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1510-stone-game-iv) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
