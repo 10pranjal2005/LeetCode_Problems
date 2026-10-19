@@ -74,6 +74,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1980-find-unique-binary-string) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2352-equal-row-and-column-pairs) |
@@ -433,6 +434,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -543,6 +545,7 @@
 | [1840-maximum-building-height](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2542-maximum-subsequence-score](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2542-maximum-subsequence-score) |
 | [2751-robot-collisions](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2784-check-if-array-is-good) |
