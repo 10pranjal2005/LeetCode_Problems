@@ -102,6 +102,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -504,6 +505,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Number Theory
 |  |
