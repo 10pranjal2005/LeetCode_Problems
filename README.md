@@ -117,6 +117,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -378,6 +379,7 @@
 | [3620-network-recovery-pathways](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -468,6 +470,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -509,6 +512,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
