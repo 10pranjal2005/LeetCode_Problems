@@ -94,6 +94,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -158,6 +159,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3714-longest-balanced-substring-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3714-longest-balanced-substring-ii) |
@@ -338,6 +340,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -666,6 +669,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -693,6 +697,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3310-remove-methods-from-project) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
