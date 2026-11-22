@@ -336,6 +336,7 @@
 | [1927-sum-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1980-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2573-find-the-string-with-lcp](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
