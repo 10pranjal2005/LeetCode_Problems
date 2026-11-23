@@ -52,6 +52,7 @@
 | [1260-shift-2d-grid](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1340-jump-game-v) |
+| [1352-product-of-the-last-k-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1406-stone-game-iii) |
@@ -220,6 +221,7 @@
 | [0877-stone-game](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1510-stone-game-iv) |
@@ -619,6 +621,7 @@
 | [0816-design-hashset](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0816-design-hashset) |
 | [0860-design-circular-queue](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0969-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1622-fancy-sequence](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/2069-walking-robot-simulation-ii) |
 ## Queue
@@ -641,6 +644,7 @@
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0969-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -810,6 +814,7 @@
 | [0238-product-of-array-except-self](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1590-make-sum-divisible-by-p](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/10pranjal2005/LeetCode_Problems/tree/master/1871-jump-game-vii) |
